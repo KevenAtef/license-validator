@@ -1,5 +1,6 @@
 {
-  "blacklist": [],
-  "last_updated": "2024-01-01T00:00:00Z",
-  "version": 1
+    "blacklist": [
+        "SISP2-L0000ac0df4431775154206-GTLBtQBLWAr5BM8VEwotTlMZyDNeeAtRK7Sfftyn5ZaZwEyarWg67LJjH_NwVJ8VDFnRCSO6L5aKoGhvQJl0G4UStlMTuQ_AVbbmy-vSTrv9nzZ-Vb4OUfWfbad1glniljAMaVJEZCYm9u3U94w8cW052koqe5i2CGrOFPwhxe-wXKGBcRN3OqF3uwUKZDb3DAuiRCVhvxGt5oQ2g9_P4BwqAmz4hQZbOhfaz3d_6Kx7uib7LRhy_Wm9XTW59eKjx6tM8R1_754PcNLs1Ggd9bqFcGtAWGOVkfv7JGrdt5bV3thlUVRcABVVAF1HxCreKMozC99g88DcBqr-UPYJ2g"
+    ],
+    "version": 2
 }
